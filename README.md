@@ -1,3 +1,3 @@
 # BaseHTML
-## Tasks [code.mu](https://code.mu/ru/markup/book/prime/)
+## Решение ["Учебника HTML и CSS для новичков"] Дмитрия Трепачёва (https://code.mu/ru/markup/book/prime/)
 _*let's start*_
